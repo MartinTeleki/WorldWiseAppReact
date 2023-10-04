@@ -9,7 +9,7 @@ const formatDate = (date) =>
 
 function CityItem({ city }) {
   const flagemojiToPNG = (flag) => {
-    var countryCode = Array.from(flag, (codeUnit) => codeUnit.codePointAt())
+    const countryCode = Array.from(flag, (codeUnit) => codeUnit.codePointAt())
       .map((char) => String.fromCharCode(char - 127397).toLowerCase())
       .join("");
     return (
@@ -17,6 +17,7 @@ function CityItem({ city }) {
     );
   };
   const { cityName, emoji, date } = city;
+
   return (
     <li className={styles.cityItem}>
       <span className={styles.emoji}>{flagemojiToPNG(emoji)}</span>
