@@ -1,5 +1,7 @@
 # React + Vite
 
+Tato aplikace na mapě vyhledá informace o daném městě. Také dokáže vytvořit a smazat nové město. Aplikace je současně v procesu a ještě není plně dokončena, avšak splňue základní funkce.
+
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 Currently, two official plugins are available:
