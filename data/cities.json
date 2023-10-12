@@ -1,18 +1,6 @@
 {
   "cities": [
     {
-      "cityName": "Lisbon",
-      "country": "Portugal",
-      "emoji": "🇵🇹",
-      "date": "2027-10-31T15:59:59.138Z",
-      "notes": "My favorite city so far!",
-      "position": {
-        "lat": 38.727881642324164,
-        "lng": -9.140900099907554
-      },
-      "id": 73930385
-    },
-    {
       "cityName": "Madrid",
       "country": "Spain",
       "emoji": "🇪🇸",
@@ -36,30 +24,65 @@
       },
       "id": 98443197
     },
-
     {
-      "cityName": "Faro",
-      "country": "Portugal",
-      "emoji": "🇵🇹",
-      "date": "2027-10-31T15:59:59.138Z",
-      "notes": "My favorite city so far!",
-      "position": {
-        "lat": 38.727881642324164,
-        "lng": -9.140900099907554
-      },
-      "id": 64664
-    },
-    {
-      "cityName": "Barcelona",
+      "cityName": "Villar del Cobo",
       "country": "Spain",
       "emoji": "🇪🇸",
-      "date": "2027-07-15T08:22:53.976Z",
+      "date": "2023-10-11T12:30:57.473Z",
       "notes": "",
       "position": {
-        "lat": 40.46635901755316,
-        "lng": -3.7133789062500004
+        "lat": "40.40945381270956",
+        "lng": "-1.6280893661495348"
       },
-      "id": 3435444
+      "id": 98443198
+    },
+    {
+      "cityName": "Cechtice",
+      "country": "Czechia",
+      "emoji": "🇨🇿",
+      "date": "2023-10-11T12:30:57.473Z",
+      "notes": "Pes",
+      "position": {
+        "lat": "49.594404229798464",
+        "lng": "15.022370918068832"
+      },
+      "id": 98443199
+    },
+    {
+      "cityName": "Le Falgoux",
+      "country": "France",
+      "emoji": "🇫🇷",
+      "date": "2023-10-11T12:52:46.510Z",
+      "notes": "",
+      "position": {
+        "lat": "45.140037203511085",
+        "lng": "2.6349149144204547"
+      },
+      "id": 98443200
+    },
+    {
+      "cityName": "Mora",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2023-10-11T19:54:07.633Z",
+      "notes": "",
+      "position": {
+        "lat": "39.72823462587154",
+        "lng": "-3.7598595831294417"
+      },
+      "id": 98443201
+    },
+    {
+      "cityName": "Porreres",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2023-10-11T20:37:44.412Z",
+      "notes": "",
+      "position": {
+        "lat": "39.511124319991794",
+        "lng": "3.0260720197699076"
+      },
+      "id": 98443202
     }
   ]
 }
